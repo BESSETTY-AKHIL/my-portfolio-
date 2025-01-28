@@ -9,7 +9,7 @@ const App: React.FC = () => {
   const [projects] = useState([
     {
       id: 1,
-      name: 'Portfolio Website',
+      name: 'Portfolio Website 1s',
       description: 'A personal portfolio website built using React and Tailwind CSS to showcase my web development skills and projects. The site is responsive, visually appealing, and serves as a platform to highlight my work, including blogs and other coding projects.',
       imageUrl: 'https://img.freepik.com/free-photo/laptop-screen-with-line-job-search_169016-38606.jpg?ga=GA1.1.1112629585.1704345698&semt=ais_hybrid',
       githubLink: 'https://github.com/BESSETTY-AKHIL/my-portfolio-',
