@@ -3,7 +3,8 @@ import { SiReaddotcv } from 'react-icons/si';
 import { FaHtml5, FaCss3Alt, FaJsSquare, FaAws, FaReact, FaNodeJs, FaGitAlt } from 'react-icons/fa';
 import { SiFirebase, SiVite } from 'react-icons/si';
 import { FaLinkedin, FaGithub, FaTwitter, FaInstagram, FaEnvelope, FaLink, FaFilePdf, FaExternalLinkAlt } from 'react-icons/fa';
-{/* hello this is akhil */}
+{/* hello this is akhil                                      this is sai harsha*/}
+{/* hello this is akhil                                      this is sai harsha*/}
 
 const App: React.FC = () => {
   const [projects] = useState([
