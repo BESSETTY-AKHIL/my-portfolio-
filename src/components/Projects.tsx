@@ -22,7 +22,7 @@ const projects = [
     id: 3,
     name: 'Major Project',
     description: 'The proposed low-cost NAS system offers easy configuration...',
-    imageUrl: 'https://img.freepik.com/free-photo/laptop-screen-with-line-job-search_169016-38606.jpg',
+    imageUrl: 'https://images.unsplash.com/photo-1572177812156-58036aae439c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cHJvamVjdHxlbnwwfHwwfHx8MA%3D%3D',
     pdfLink: '/major_project.pdf',
   },
 ];

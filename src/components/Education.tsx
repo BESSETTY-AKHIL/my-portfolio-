@@ -6,12 +6,14 @@ const education = [
     degree: 'Computer Science Engineering',
     duration: '2021 - 2024',
     cgpa: '7.16',
+    institutionImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy4ziWeMx3RO1MuHYqdByw8N3_6xNLeaMofg&s',
   },
   {
     institution: 'SITM College',
     degree: 'Diploma in Mechanical Engineering',
     duration: '2016 - 2019',
     percentage: '69.48%',
+    institutionImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDtBfsMjk8zuXsid5Q0OilvupJAwYlPKmOHA&s',
   },
   {
     institution: 'Prasanthi Niketan School',
