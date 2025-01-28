@@ -9,8 +9,6 @@ import ContactMe from './components/ContactMe';
 import SocialMediaLinks from './components/SocialMediaLinks';
 
 const App: React.FC = () => {
-  return (
-    <div className="min-h-screen bg-white flex flex-col justify-start items-center px-4 py-10 text-sm">
       <div className="w-full max-w-3xl">
         {/* Top Section with Name on Left, Image on Right */}
         <header className="flex justify-between items-center py-10">
