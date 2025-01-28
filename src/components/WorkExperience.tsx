@@ -2,7 +2,7 @@ import React from 'react';
 
 const workExperience = [
   {
-    companyImage: '',
+    companyImage: 'https://www.lotuswireless.com/assets/img/lotus_wireless_logo.png',
     title: 'Lotus Wireless Technologies',
     role: 'Frontend Developer (Intern)',
     duration: 'January 2025 - Present',
