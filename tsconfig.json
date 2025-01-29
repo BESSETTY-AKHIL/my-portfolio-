@@ -3,9 +3,16 @@
     "jsx": "react-jsx",
     "moduleResolution": "node",
     "esModuleInterop": true,
-    "strict": true
+    "strict": true,
+    "lib": ["es2015", "dom"], // Add "es2015" or later here
+    "target": "esnext",         // Or "es5" if you want compatibility with older browsers
+    "module": "esnext",         // For modern JavaScript modules
+    "allowJs": true             // Allows JS files alongside TS
   },
   "include": [
     "src/**/*"
+  ],
+  "exclude": [
+    "node_modules"
   ]
 }
