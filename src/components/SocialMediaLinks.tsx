@@ -59,7 +59,7 @@ const SocialMediaLinks: React.FC = () => {
 
         {/* CV Icon */}
         <div className="relative group">
-          <a href="/Akhil_s_CV.pdf" target="_blank" rel="noopener noreferrer">
+          <a href="/Akhil_s_CV(5).pdf" target="_blank" rel="noopener noreferrer">
             <SiReaddotcv size={20} className="text-black group-hover:scale-110 transition-all" />
           </a>
           <span className="absolute left-1/2 transform -translate-x-1/2 -translate-y-10 text-xs text-white bg-black p-1 rounded-md opacity-0 group-hover:opacity-100 transition-opacity">
