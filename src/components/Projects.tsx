@@ -6,9 +6,9 @@ const projects = [
     id: 1,
     name: 'Portfolio Website',
     description: 'A personal portfolio website built using React and Tailwind CSS...',
-    imageUrl: 'https://img.freepik.com/free-photo/laptop-screen-with-line-job-search_169016-38606.jpg',
+    imageUrl: 'https://e0.pxfuel.com/wallpapers/240/456/desktop-wallpaper-portfolio-portfolio-background-portfolio-and-career-portfolio.jpg',
     githubLink: 'https://github.com/BESSETTY-AKHIL/my-portfolio-',
-    websiteLink: 'https://yourportfolio.com',
+    websiteLink: 'https://akhilbheesetty.netlify.app/',
   },
   {
     id: 2,
