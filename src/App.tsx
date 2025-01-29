@@ -12,7 +12,7 @@ const App: React.FC = () => {
   return (
     <div className="min-h-screen bg-white flex flex-col justify-start items-center px-4 py-10 text-sm">
       <div className="w-full max-w-3xl">
-        {/* Top Section with Name on Left, Image on Right */}
+        {/* Top Section with Name on Left, Image on Right okay */}
         <header className="flex justify-between items-center py-10">
           <div>
             <h1 className="text-4xl font-bold text-gray-800">Hey, I’m Akhil Bheesetty!</h1>
